@@ -1,0 +1,19 @@
+{
+  "name": "@me-guiae/storybook",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@storybook/addon-actions": "^6.5.9",
+    "@storybook/addon-essentials": "^6.5.9",
+    "@storybook/addon-interactions": "^6.5.9",
+    "@storybook/jest": "^0.0.10",
+    "@storybook/testing-library": "^0.0.13",
+    "@types/react": "^18.0.14",
+    "react": "^18.2.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "storybook": "^6.5.9"
+  }
+}
