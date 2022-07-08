@@ -1,0 +1,6 @@
+__mocks__
+node_modules
+build
+dist
+jest.*
+.husky
